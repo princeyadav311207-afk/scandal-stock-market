@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#07090f"/>
+  <path d="M88 344h48v-92H88v92Zm96 48h48V156h-48v236Zm96-72h48V216h-48v104Zm96 48h48V112h-48v256Z" fill="#41f0a0"/>
+  <path d="M112 380c80-122 138-126 196-92 42 25 67-4 94-62" fill="none" stroke="#4fd8ff" stroke-width="26" stroke-linecap="round"/>
+  <path d="M122 117c16-38 58-42 74-6 12 28-8 56-43 84-35-28-47-51-31-78Z" fill="#ff5277"/>
+  <text x="256" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#f4f7fb">SSM</text>
+</svg>
